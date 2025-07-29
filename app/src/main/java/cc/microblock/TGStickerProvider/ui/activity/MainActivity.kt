@@ -36,7 +36,7 @@ import cc.microblock.TGStickerProvider.realDataPath
 import cc.microblock.TGStickerProvider.stickerDataPath
 import cc.microblock.TGStickerProvider.tgspDataPath
 import cc.microblock.TGStickerProvider.ui.activity.base.BaseActivity
-import com.arthenica.ffmpegkit.FFmpegKit
+import com.antonkarpenko.ffmpegkit.FFmpegKit
 import com.bumptech.glide.Glide
 import com.google.android.material.imageview.ShapeableImageView
 import com.google.android.material.textview.MaterialTextView
